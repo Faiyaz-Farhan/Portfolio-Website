@@ -137,3 +137,30 @@ main section{
    font-size: 16px;
    color: #757575;
 }
+/* resume styles */
+.resume-cntr{
+   display: flex;
+   gap: 24px;
+}
+.resume-clm-ttl{
+   font-size: 30px;
+   font-weight: bold;
+   color: #474747;
+}
+.exp-ttl{
+   font-size: 25px;
+   font-weight: bold;
+   color: #474747;
+}
+.exp-sub-ttl, .exp-des{
+   color: #757575;
+}
+.exp-sub-ttl{
+   font-size: 20px;
+}
+.exp-des{
+   font-size: 16px;
+}
+.resume-cv{
+   margin: 50px;
+}
